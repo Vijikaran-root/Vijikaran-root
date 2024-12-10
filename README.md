@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working as a Data Analyst and Full Stack Web Developer.<br>I'm currently learning Machine Learning and few trending web development frameworks in paralell.<br>
+Nothing to flex.<br>
 
 
 ## 🌐 Socials:
